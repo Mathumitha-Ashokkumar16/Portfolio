@@ -107,7 +107,7 @@ const Hero = () => {
 
           <motion.a
             href="/Mathumitha_Resume.pdf"
-            download
+            
             className="group px-8 py-4 bg-white dark:bg-gray-800 text-primary-600 dark:text-primary-400 border-2 border-primary-600 dark:border-primary-400 rounded-full font-semibold text-lg hover:bg-primary-50 dark:hover:bg-gray-700 transition-all duration-300 flex items-center gap-2"
             whileHover={{ scale: 1.05, y: -2 }}
             whileTap={{ scale: 0.95 }}
